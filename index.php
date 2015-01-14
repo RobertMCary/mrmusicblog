@@ -10,10 +10,10 @@
 			<thead></thead>
 			<tbody>
 				<tr class="mainnavbutton">
-					<td><a href="index.php">(home.)</a></td>
+					<td><a href="index.php" class="mainnavbuttonlink">(home.)</a></td>
 				</tr>
 				<tr class="mainnavbutton">
-					<td><a href="review.php">(reviews.)</a></td>
+					<td><a href="review.php" class="mainnavbuttonlink">(reviews.)</a></td>
 				</tr>
 				<tr class="mainnavbutton">
 					<td>(database.)</td>

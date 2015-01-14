@@ -18,15 +18,25 @@
 	border:5px solid #4cbb17;
 	border-radius:10px;
 	font-family: "Times New Roman", serif;
+	display:inline-block;
+}
+
+#reviewnavbar{
+	background-color:gray;
+	margin-top:0;
+	margin-right:0;
+	height:50px;
+	width:50px;
+	display:inline-block;
+	float:right;
 }
 
 .mainnavbutton{
-	color:#fcdc3b;
+	color:#ffec8b;
 	background-color:#75a1d0;
 	width:100%;
 	height:50px;
 	text-align:center;
-
 }
 
 .mainnavbutton td{
@@ -34,8 +44,22 @@
 	width:250px;
 }
 
+/*.mainnavbutton a{
+	text-decoration:none;
+}*/
+
 .mainnavbutton td:hover{
 	background-color:#5971ad;
+}
+
+a.mainnavbuttonlink:link{
+	color:#fcdc3b;
+	text-decoration:none;
+}
+
+a.mainnavbuttonlink:visited{
+	color:#e3cf57;
+	text-decoration:none;
 }
 
 .subtext{
