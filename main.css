@@ -1,0 +1,34 @@
+#maintitlelogo{
+	background-color:#cdab2d;
+	
+}
+
+#mainnavbar{
+	background-color:#00ee76;
+	margin-top:0;
+	margin-left:0;
+	width:20%;
+	height:100%;
+	position:fixed;
+	border:5px solid #4cbb17;
+	border-radius:10px;
+	font-family: "Times New Roman", serif;
+}
+
+.mainnavbutton{
+	color:#fcdc3b;
+	background-color:#75a1d0;
+	width:100%;
+	height:50px;
+	text-align:center;
+
+}
+
+.mainnavbutton td{
+	height:50px;
+	width:250px;
+}
+
+.mainnavbutton td:hover{
+	background-color:#5971ad;
+}
