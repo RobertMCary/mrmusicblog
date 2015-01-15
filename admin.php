@@ -25,11 +25,9 @@
 		</table>
 	</div>
 	<div id="mainpageintro">
-		<h1 class="subtext">Always a most mysterious brew...</h1>
-		<p style="text-align:left">Welcome to the Jazz Club. Drinks are on us. Always. 
-			Take a seat, order something, kick back. Feet off the tables though. 
-			Tonight we will be talking, singing, musing, reflecting, and perhaps most importantly, drinking.</p>
-		<p>"You could have been anywhere in the world tonight, but you're here with us. And we appreciate that..."</p>
+		<h1 class="subtext">Administrator panel.</h1>
+		<p style="text-align:left">This area of the site allows an admin (and <em>only</em> an admin!) to add
+			, edit, and delete various content on the site, the least of which is the reviews.</p>
 	</div>
 </body>
 </html>
