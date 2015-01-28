@@ -1,11 +1,12 @@
 #mainpageintro{
 	background-color:#cdab2d;
-	height:300px;
+	min-height:300px;
 	width:50%;
 	margin-left:22%;
 	margin-top:5%;
 	border:5px dashed yellow;
 	border-radius:10px;
+	overflow: hidden;
 }
 
 #mainnavbar{
@@ -107,5 +108,5 @@ a.mainnavbuttonlink:visited{
 
 .subtext{
 	font-family:cursive;
-	text-align:right;
+	text-align:center;
 }

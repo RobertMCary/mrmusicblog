@@ -92,6 +92,7 @@ else
 }
 ?>
 
+<!DOCTYPE html>
 <html>
 <head>
 <title>PHPRO Login</title>
