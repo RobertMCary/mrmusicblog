@@ -91,7 +91,7 @@ else
                 $_SESSION['mb_user_id'] = $mb_user_id;
 
                 /*** tell the user we are logged in ***/
-                $message = 'You are now logged in';
+                $message = 'You are now logged in.';
         }
 
 
@@ -111,9 +111,10 @@ else
     <link type="text/css" rel="stylesheet" href="main.css"/>
 </head>
 <body style="background-color:#426352">
+    <?php include("mainnavbar.php"); ?>
     <div id="mainpageintro">
         <p><?php echo $message; ?></p>
+        <p><? echo $_SESSION['mb_user_id'] ?></p>
     </div>
-    <?php include("mainnavbar.php"); ?>
 </body>
 </html>

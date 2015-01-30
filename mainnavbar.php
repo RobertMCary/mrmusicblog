@@ -14,6 +14,9 @@
 				<tr class="mainnavbutton">
 					<td><a href="admin.php" class="mainnavbuttonlink">(admin.)</a></td>
 				</tr>
+				<tr class="mainnavbutton">
+					<td><button type="button"><a href="login.php">Login</a></td>
+				</tr>
 		</tbody>
 	</table>
 </div>

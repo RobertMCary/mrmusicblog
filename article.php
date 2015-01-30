@@ -6,6 +6,7 @@
 	<?php include("db_connect.inc") ?>
 </head>
 <body style="background-color:#426352">
+	<?php include("mainnavbar.php"); ?>
 	<div id="review_div">
 		<?
 			$servername = "localhost";
@@ -44,6 +45,5 @@ Et iudico repudiare mel, in per oratio electram imperdiet, pericula incorrupte s
 			?>
 		</div>
 	</div>
-<?php include("mainnavbar.php"); ?>
 </body>
 </html>

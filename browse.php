@@ -6,8 +6,8 @@
 	<?php include("db_connect.inc") ?>
 </head>
 <body style="background-color:#426352">
+	<?php include("mainnavbar.php"); ?>
 	<div id="mainpageintro">
 	</div>
-	<?php include("mainnavbar.php"); ?>
 </body>
 </html>

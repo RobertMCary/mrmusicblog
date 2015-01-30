@@ -15,9 +15,10 @@ session_destroy();
     <link type="text/css" rel="stylesheet" href="main.css"/>
 </head>
 <body style="background-color:#426352">
+    <?php include("mainnavbar.php"); ?>
     <div id="mainpageintro">
         <h1>You are now logged out. Come again!</h1>
+        <p> <?php echo $_SESSION['mb_user_id'] ?> </p>
     </div>
-    <?php include("mainnavbar.php"); ?>
 </body>
 </html>

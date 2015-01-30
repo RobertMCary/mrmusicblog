@@ -98,6 +98,7 @@ else
 <title>PHPRO Login</title>
 </head>
 <body>
+    <?php include("mainnavbar.php"); ?>
 <p><?php echo $message; ?></p>
 </body>
 </html>
