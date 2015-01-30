@@ -1,3 +1,10 @@
+#browse_table{
+	border: 2px solid white;
+	margin-left:22%;
+	padding:5px;
+	text-align:center;
+}
+
 #mainpageintro{
 	background-color:#cdab2d;
 	min-height:300px;
